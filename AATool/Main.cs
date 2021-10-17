@@ -30,7 +30,7 @@ namespace AATool
         ||       //this program, please put your name here        ||
         ||       //to help differentiate unofficial builds        ||
         ||                                                        ||
-        ||       */const string ModderName = "";/*                ||
+        ||       */const string ModderName = "PolishKrowa";/*                ||
         ||                                                        ||
         ||       //Thanks!                                        ||
         ||                                                        ||
